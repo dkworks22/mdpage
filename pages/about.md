@@ -15,29 +15,26 @@ permalink: /about
   </div>
 </div>
 <br />
-<div>
-<p>성장하는 디자이너</p>
+<div class="div-center">
+  <p>성장하는 디자이너</p>
+  ![image](../assets/img/line_gr2.png)
+
+  ### Education
+
+  <span class="year-decorator">2021</span> Education
+
+
+  ### Tranning
+
+  <span class="year-decorator">2021</span> Tranning
+
+
+  ### Licence
+
+  <span class="year-decorator">2021</span> Licence
+
+
+  ### Skill
+
+  Skill
 </div>
-
-![image](../assets/img/line_gr2.png)
-
-
-### Education
-
-<span class="year-decorator">2021</span> Education
-
-
-### Tranning
-
-<span class="year-decorator">2021</span> Tranning
-
-
-### Licence
-
-<span class="year-decorator">2021</span> Licence
-
-
-### Skill
-
-Skill
-
