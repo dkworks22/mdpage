@@ -3,6 +3,7 @@ layout: page
 title: "About Me"
 permalink: /about
 ---
+
 <div class="div-container">  
   <div class="div-left"> 
     <img src="/mdpage/assets/img/photo.jpeg" width="150">
