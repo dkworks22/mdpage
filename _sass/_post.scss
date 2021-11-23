@@ -94,12 +94,16 @@
     width: 95vw;
   }
 }
+.span-point-color {
+  font-weight: bold;
+  float: right;
+}
 /*project 1*/
 .color_01 > li  {
   width: 25px; 
   height: 25px; 
   border-radius: 50%; 
-  float: left; 
+  float: right; 
   margin: 10px 5px;
   list-style: none; 
   padding: 0;
@@ -117,9 +121,6 @@
   color: grey;
   font-size: 1.5rem;
   text-align: right;
-}
-.span-point-color {
-  font-weight: bold;
 }
 .p-tools {
   text-size: 1.2rem;
