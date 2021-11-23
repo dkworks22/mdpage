@@ -17,22 +17,22 @@ permalink: /about
     <p>성장하는 디자이너</p>
     ![image](../assets/img/line_gr2.png)
 
-    ### Education
+    <h3>Education</h3>
 
     <span class="year-decorator">2021</span> Education
 
 
-    ### Tranning
+    <h3>Tranning</h3>
 
     <span class="year-decorator">2021</span> Tranning
 
 
-    ### Licence
+    <h3>Licence</h3>
 
     <span class="year-decorator">2021</span> Licence
 
 
-    ### Skill
+    <h3>Skill</h3>
 
     Skill
   </div>
