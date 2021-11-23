@@ -14,15 +14,14 @@ permalink: /about
     <p><span class="span-spacing">E-mail</span><span class="span-content">test@gmail.com</span></p>
   </div>
 </div>
-<div class="div-center" width="100%">
-  <p class="p-left">성장하는 디자이너</p>
-  <img src="/mdpage/assets/img/line_gr2.png" width="100%"></div>
-  <h3>Education</h3>
-  <span class="year-decorator">2021</span> Education
-  <h3>Tranning</h3>
-  <span class="year-decorator">2021</span> Tranning
-  <h3>Licence</h3>
-  <span class="year-decorator">2021</span> Licence
-  <h3>Skill</h3>
-  Skill
-</div>
+<br />
+<p class="p-left">성장하는 디자이너</p>
+<img src="/mdpage/assets/img/line_gr2.png" width="100%"></div>
+<h3>Education</h3>
+<span class="year-decorator">2021</span> Education
+<h3>Tranning</h3>
+<span class="year-decorator">2021</span> Tranning
+<h3>Licence</h3>
+<span class="year-decorator">2021</span> Licence
+<h3>Skill</h3>
+Skill
