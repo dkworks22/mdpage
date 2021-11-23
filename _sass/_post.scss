@@ -96,14 +96,16 @@
 }
 /*project 1*/
 .color_01 > li  {
-  width:25px; 
-  height:25px; 
-  border-radius:0%; 
-  float:left; 
+  width: 25px; 
+  height: 25px; 
+  border-radius: 50%; 
+  float: left; 
   margin: 10px 5px;
+  list-style: none; 
+  padding: 0;
 }
 .color_01 > li:first-child {
-  background-color:#353f67;
+  background-color: #353f67;
 }
 .color_01 > li:nth-child(2) {
   background-color: #5e6b9e;
@@ -119,4 +121,6 @@
 .span-point-color {
   font-weight: bold;
 }
-
+.p-tools {
+  margin: 0px;
+}
