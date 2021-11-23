@@ -17,9 +17,9 @@ menu:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: '<다음'
+  previous_page: '이전>'
 
-related_posts: 'You may also enjoy...'
+related_posts: ''
 
-post_date_prefix: 'Written on'
+post_date_prefix: ''
