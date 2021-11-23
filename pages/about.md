@@ -18,7 +18,7 @@ permalink: /about
 </div>
 
 
-### 성장하는 디자이너
+<p>성장하는 디자이너</p>
 
 ![image](../assets/img/line_gr2.png)
 
