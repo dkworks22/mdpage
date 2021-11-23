@@ -17,7 +17,7 @@ permalink: /about
 
 <br /><br /><br /><br /><br /><br /><br />
 <p class="p-left">성장하는 디자이너</p>
-<img src="/mdpage/assets/img/line_gr2.png" width="100%"></div>
+<img src="/mdpage/assets/img/line_gr2.png" width="100%">
 <h3>Education</h3>
 <span class="year-decorator">2021</span> Education
 <h3>Tranning</h3>
