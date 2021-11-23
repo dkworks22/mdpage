@@ -13,28 +13,27 @@ permalink: /about
     <p><span class="span-spacing">Phone</span><span class="span-content">010-0000-2222</span></p>
     <p><span class="span-spacing">E-mail</span><span class="span-content">test@gmail.com</span></p>
   </div>
-</div>
-<br />
-<div class="div-center">
-  <p>성장하는 디자이너</p>
-  ![image](../assets/img/line_gr2.png)
+  <div class="div-center">
+    <p>성장하는 디자이너</p>
+    ![image](../assets/img/line_gr2.png)
 
-  ### Education
+    ### Education
 
-  <span class="year-decorator">2021</span> Education
+    <span class="year-decorator">2021</span> Education
 
 
-  ### Tranning
+    ### Tranning
 
-  <span class="year-decorator">2021</span> Tranning
-
-
-  ### Licence
-
-  <span class="year-decorator">2021</span> Licence
+    <span class="year-decorator">2021</span> Tranning
 
 
-  ### Skill
+    ### Licence
 
-  Skill
+    <span class="year-decorator">2021</span> Licence
+
+
+    ### Skill
+
+    Skill
+  </div>
 </div>
