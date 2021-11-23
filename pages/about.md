@@ -14,7 +14,7 @@ permalink: /about
     <p><span class="span-spacing">E-mail</span><span class="span-content">test@gmail.com</span></p>
   </div>
 </div>
-
+<br />
 <div>
 <p>성장하는 디자이너</p>
 </div>
