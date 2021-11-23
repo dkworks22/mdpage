@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about
 ---
 
-<div class="div-container">
+<div class="div-center">
   <div class="div-left"><img src="/mdpage/assets/img/photo.jpeg" width="150"></div>
   <div class="div-right">
   
@@ -16,7 +16,7 @@ permalink: /about
 
   </div>
 </div>
-<br />
+<br /><br /><br /><br /><br />
 <p class="p-left">성장하는 디자이너</p>
 <img src="/mdpage/assets/img/line_gr2.png" width="100%"></div>
 <h3>Education</h3>
