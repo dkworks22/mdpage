@@ -5,7 +5,7 @@ permalink: /about
 ---
 <div class="div-container">  
   <div class="div-left"> 
-    <img src="../assets/img/photo.jpeg" width="150">
+    <img src="/mdpage/assets/img/photo.jpeg" width="150">
   </div>
   <div class="div-right">
     <p><span class="span-spacing">Birth</span> 2021/11/23</p>
